@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Feb  1 20:31:02 2025
-
-@author: abarc
-"""
-
 import os
 import numpy as np
 
